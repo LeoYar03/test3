@@ -1,1 +1,2 @@
 This is test file magic to git.
+true or fulls?
